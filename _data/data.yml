@@ -4,18 +4,18 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Mae Jasmin L. Benavidez
+  name: Mae Jasmin Benavidez
   tagline: Reserve Pool Officer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: mjlbnvdz@gmail.com
   phone: 0976 1029703
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Pasig City, Metro Manila, Philippines (UTC+08:00) or Asia/Manila (UTC+08:00) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Filipino
   website: https://andante13.github.io/my-cv-template/ # Include the full website URL, including "http://" or "https://".
   linkedin: Mae Jasmin Benavidez
