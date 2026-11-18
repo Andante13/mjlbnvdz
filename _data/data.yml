@@ -8,134 +8,134 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Mae Jasmin L. Benavidez
+  tagline: Reserve Pool Officer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: mjlbnvdz@gmail.com
+  phone: 0976 1029703
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  citizenship: Filipino
+  website: https://andante13.github.io/my-cv-template/ # Include the full website URL, including "http://" or "https://".
+  linkedin: Mae Jasmin Benavidez
+  #xing: 
+  github: andante13
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Tagalog
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    #- idiom: Spanish
+    #  level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
     - item: Cooking
+      link:
+
+
+    - item: Baking
+      link:
+
+
+    - item: Working out
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+Dedicated and results-oriented professional with extensive experience in branch operations, cash services, loan and deposit processing, and regulatory compliance. 
+Proven track record of effective leadership, decision-making, and exceptional customer service aimed at fostering long-term client relationships and organizational success.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Bachelor of Science in Business Administration Major in Financial Management
+    university: National College of Business and Arts
+    time: 2012 - 2016
+    #details: |
+    #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #  pretium quis, sem.
+    #    - Bullet point
+    #    - Bullet point
+ # - degree: BSc in Applied Mathematics
+ #   university: Bristol University
+ #   time: 2007 - 2011
+ #   details: |
+ #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+ #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+ #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+ #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+ #     pretium quis, sem.
+ #       - Bullet point
+ #       - Bullet point
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Reserve Pool Officer
+    time: 2025 - Present
+    company: City Savings Bank, Ortigas Pasig City
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        •	Primarily acts as a reliever for any position in the Branch that needs back up and/or additional manpower
+        •	Responsible for performing objective, independent, and reliable assessments of the effectiveness of a bank's risk management activities, its compliance with applicable regulations, and its internal control-     environment.
+        •	Ensures the performance of all internal control by conducting review and testing functions to prevent and detect or eliminate the risk for possible loss.
+        •	Ensures proper compliance of bank-wide policies in their assigned branches
+        •	Monitors the service quality level of the branch in relation to client’s expectations and internal service standards and eliminates all factors that get in the way of efficient service delivery.
+
+  - role: Branch Operations Head
+    time: 2024 - 2025
+    company: City Savings Bank, Ortigas Pasig City
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        •	Responsible for compliance with regulatory and internal policies and to achieve satisfactory audit ratings with no unsafe or unsound banking practices.
+        •	Ensures the performance of all internal control to prevent, detect or eliminate the risk for possible loss.
+        •	Exercises functional management over all service and operations personnel in the Branch
+        •	Implements cost effectiveness' measures to reduce and manage the expenses of the branch
+        •	Obtains branch commitment of quality service to the satisfaction of client’s individual needs
+        •	Ensure compliance to conclusion, within a reasonable period of time (SLA), audit findings of the Branch and regularly report the status of such findings and/or corrective measures. 
+
+  - role: Branch Service Officer
+    time: 2019 - 2024
+    company: City Savings Bank, Ortigas Pasig City
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        •	Performs and oversees beginning and end-of-day branch operating activities.
+        •	Supervises cash services, ATM operations, and acts as chief custodian of peso cash, accountable forms, and post-dated checks.
+        •	Ensures accountable forms, branch reports, and audit details are strictly verified, reconciled, and properly issued.
+        •	Reviews, prepares, approves, and submits critical branch operational and compliance reports.
+        •	Efficiently resolves customer concerns and escalation inquiries to maintain high client satisfaction standards.
+        •	Supports the branch sales force by streamlining operational processes and actively promoting cross-selling opportunities.
+
+  - role: Branch Service Associate
+    time: 2016 - 2019
+    company: City Savings Bank, Ortigas Pasig City
+    details: |
+        •	Accurately processed client loan applications and deposit transactions in accordance with strict turnaround guidelines.
+        •	Ensured full compliance with regulatory requirements, central bank standards, and internal company policies.
+        •	Prepared required daily, weekly, and monthly branch operational data and financial reports.
+        •	Delivered excellent customer service to all clients in alignment with established service standards.
+
 
 certifications:
   title: Certifications
@@ -245,42 +245,52 @@ publications:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
+  - person: Alan Joseph Borja
     email: perezyareli@example.com
     phone: 012 345 6789
-    role: General Director at example.com
+    role: Regional Head at City Savings Bank
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+      It was a privilege to work under your leadership and guidance. Your professionalism, strategic mindset, and commitment to excellence have been a significant influence on my growth. 
+      Thank you for being an exceptional mentor and leader.
+ # - person: Lara Henderson
+ #   email: larah@example.com
+ #   phone: 012 345 6789
+ #   role: General Director at example.com
+ #   recommendation: |
+ #     I would like to work with Alan Doe again!
 
-      He is a great employee!
+ #     He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Core Banking Systems (Finacle, Temenos & Sunline)
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Team Leadership & Supervision
     level: 98%
 
-  - name: Angular
+  - name: Branch Cash Services & Custody
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Loan & Deposit Processing
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Regulatory Compliance
+    level: 95%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Time Management & Multitasking
+    level: 95%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - name: Customer Service Excellence
+    level: 95%
+
+  - name: MS Office (Word, Excel, PPT)
+    level: 98%
+
+  - name: Decision Making & Problem Solving
+    level: 95%  
+
+#footer: >
+  #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
